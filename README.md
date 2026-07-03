@@ -1,2 +1,2 @@
-# codespacestest20260703
-스마트빌리지 codespacestest20260703
+# codespaces-test20260703
+스마트빌리지 codespaces-test20260703
